@@ -1,5 +1,5 @@
 ﻿# House_price_prediction
- #Algorithms used: .Logistic Regression .RandomForestClassifier
+ #Algorithms used: LinearRegression
 
   #Tools used: .Flask .Google Colab .Vscode .Github
 
