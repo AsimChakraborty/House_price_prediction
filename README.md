@@ -1,4 +1,6 @@
 ﻿# House_price_prediction
+ #About Dataset:
+ Boston House Prices Dataset consists of prices of houses across different places in Boston. The dataset also consists of information on areas of non-retail business (INDUS), crime rate (CRIM), age of people who own a house (AGE), and several other attributes (the dataset has a total of 14 attributes). 
  #Algorithms used: LinearRegression
 
   #Tools used: .Flask .Google Colab .Vscode .Github
